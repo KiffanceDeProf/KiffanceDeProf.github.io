@@ -1,0 +1,77 @@
+
+html, body { height: 100%; }
+
+body {
+  background-color: #FFF;
+  padding-top: 50px;
+}
+
+body > footer {
+  background-color: #454545;
+  color: #DDD;
+  padding: 20px 0;
+}
+
+body > footer a {
+  color: #BBB;
+}
+
+body > footer a:hover {
+  color: inherit;
+}
+
+.fullscreen-header {
+  height: 800px;
+  background: url("http://placekitten.com/g/1920/800");
+  padding: 100px 0;
+  color: white;
+  text-align: center;
+  position: relative;
+}
+
+.fullscreen-header .lead {
+  text-shadow: 0px 2px 1px rgba(0, 0, 0, 0.5);
+}
+
+.fullscreen-header .down-arrow {
+  background-color: rgba(0, 0, 0, 0.3);
+  border-radius: 50px;
+  height: 100px;
+  width: 100px;
+  font-size: 48px;
+  line-height: 100px;
+  text-align: center;
+  margin: auto;
+  opacity: 0.8;
+  position: absolute;
+  bottom: 50px;
+  top: inherit;
+  color: white;
+  text-decoration: none;
+}
+
+.fullscreen-header .down-arrow:hover {
+  opacity: 1;
+}
+
+#main {
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+#screenshots {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: #222;
+  color: white;
+}
+
+#screenshots .screenshot {
+  margin-top: 30px;
+}
+
+.post-excerpt *:not(.post-title) {
+  font-size: 100%;
+}
