@@ -48,10 +48,10 @@ L’idée a émergé sur *Twitter*, et après un appel à contribution, l’équ
 
 Actuellement, le jeu est en phase de développement. On ne peut pas encore donner de date précise de sortie, mais il devrait sortir d'ici quelques mois, si tout se passe bien.
 
-Avant 2017, c'est promi!
+Avant 2017, c'est promis!
 
 ### J'aimerais bien aider, comment je fais ?
 
 Le projet est [disponible sur GitHub](https://github.com/KiffanceDeProf/KiffanceDeProf), et nous sommes ouvert aux *pull-request*! Vous trouverez dans le `README` du projet toutes les informations pour pouvoir faire tourner le jeu chez vous, et y contribuer!
 
-Si vous voulez cependant aider dans un autre domaine que la partie programmation, ou que vous avez une idée révolutionnaire à nous faire découvrir, vous pouvez contacter [@MsieurLeProf](http://twitter.com/MsieurLeProf) via Twitter.
+Si vous voulez aider dans un autre domaine que la partie programmation, ou si vous avez une idée révolutionnaire à nous proposer, vous pouvez contacter [@MsieurLeProf](http://twitter.com/MsieurLeProf) via Twitter.
