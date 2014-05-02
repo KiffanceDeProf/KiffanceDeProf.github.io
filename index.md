@@ -3,25 +3,55 @@ layout: homepage
 title: #KiffanceDeProf
 ---
 
-# Kikoue !
+# Bienvenue dans votre salle de classe.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit, dolorem, perferendis, autem dignissimos nisi quaerat fugiat corporis asperiores dicta atque aspernatur sunt fugit vel itaque inventore veritatis adipisci tempora ratione!
+Imaginez la situation suivante : vous êtes prof, c’est votre premier jour dans ce nouveau collège. Les élèves arrivent, se placent, vous faites votre cours, et vous en sortez avec un mal de crâne atroce.
 
-> Bon, j'arrive en cours là, et j'ai qu'une envie : créer une sorte de jeu de stratégie. <br />En partant du concept des plans de classe.
-  <footer>@MsieurLeProf, le 23 janvier 2014</footer>
+La raison ? Les élèves se sont placés comme ils l’ont voulu, *le cancre* s’est mis au fond et, bien camouflé, il a balancé des boulettes sur tout le monde. *Le gang des pipelettes* s’est mis côte à côte et en a bien profité, *l’élève le plus grand de classe* s’est mis au premier rang, ce qui fait que les élèves derrière lui n’ont pas arrêté de se plaindre…
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni, error, iste omnis officia modi facere quo sunt sint veritatis corporis voluptate debitis assumenda delectus quos architecto blanditiis nostrum consequuntur quaerat!
+### Deux solutions: acheter du doliprane, ou *faire un plan de classe*. La seconde option est plus économique.
+
+A vous de placer les élèves pour le trimestre, dans l’optique d’avoir un plan de classe idéal, faisant monter la moyenne des élèves. Mais un aussi grand pouvoir que celui-ci implique bien évidemment de grandes responsabilités.
+
+*La moyenne des élèves dépend de 3 propriétés : leur* ***humeur****, leur* ***concentration****, et leur* ***vision****.*
+
+Séparer deux élèves très amis et bavard augmentera certes leur concentration, mais baissera leur humeur.
+
+Que ferez-vous avec un élève qui porte des lunettes, mais qui est également très grand ? Le laissez-vous au premier rang pour qu’il voit bien le tableau, alors qu’il baissera la vision de tous les élèves derrière lui ?
+
+Et cet élève solitaire, excellent élève, le placerez-vous à côté d’un élève agité, histoire qu’il serve de “tampon” ?
 
 ***
 
-## Lorem ipsum
+# Le plateau de jeu
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, ea, animi, adipisci eligendi sunt corporis nulla commodi magnam neque ullam vel repudiandae provident velit nisi fugiat.
+![Plateau](http://placehold.it/750x400&text=Screenshot+du+plateau+de+jeu)
 
-- Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, quidem, aperiam eum veritatis a doloremque recusandae autem ullam facere ad dicta modi porro sunt veniam vero odit obcaecati iusto cumque?
-- Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim, delectus, natus obcaecati nobis nesciunt quasi deleniti voluptates facere qui commodi. Aliquid, corrupti, hic aspernatur temporibus repellendus aperiam optio molestias dolores.
-- Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni, animi nostrum corporis ab voluptatum doloribus mollitia nemo autem nobis eos et repellat maiores voluptas aliquam voluptatibus iusto soluta libero ipsam.
-  - Item 3.1
-  - Item 3.2
-  - Item 3.3
-- Item 4
+C’est un casse-tête de ce genre que nous sommes en train de créer. 
+
+# FAQ <small>(Foire aux questions)</small>
+
+### C'est qui qui fait ça ?
+
+L’idée a émergé sur *Twitter*, et après un appel à contribution, l’équipe se constitue des membres suivants, un mélange à base de prof, lycéens et étudiants :
+
+- [@MsieurLeProf](http://twitter.com/MsieurLeProf) : Game Designer et inspecteur des travaux finis
+- [@Sandhose](http://twitter.com/Sandhose) : Développeur backend
+- [@TocheCamille](http://twitter.com/TocheCamille) : Développeur frontend
+- [@QBE_root](http://twitter.com/QBE_root) : Développeur frontend
+- [@cGuille](http://twitter.com/cGuille) : Développeur backend
+- [@DJPOC1](http://twitter.com/DJPOC1) : Développeur frontend
+- [@Kv3t](http://twitter.com/Kv3t) : illustratrice
+- [@NoixDeCajouille](http://twitter.com/NoixDeCajouille) : illustratrice
+
+### C'est pour quand ?
+
+Actuellement, le jeu est en phase de développement. On ne peut pas encore donner de date précise de sortie, mais il devrait sortir d'ici quelques mois, si tout se passe bien.
+
+Avant 2017, c'est promi!
+
+### J'aimerais bien aider, comment je fais ?
+
+Le projet est [disponible sur GitHub](https://github.com/KiffanceDeProf/KiffanceDeProf), et nous sommes ouvert aux *pull-request*! Vous trouverez dans le `README` du projet toutes les informations pour pouvoir faire tourner le jeu chez vous, et y contribuer!
+
+Si vous voulez cependant aider dans un autre domaine que la partie programmation, ou que vous avez une idée révolutionnaire à nous faire découvrir, vous pouvez contacter [@MsieurLeProf](http://twitter.com/MsieurLeProf) via Twitter.
